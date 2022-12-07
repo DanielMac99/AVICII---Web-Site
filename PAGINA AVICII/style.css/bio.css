@@ -1,0 +1,108 @@
+body{
+    background-image: linear-gradient(#D5E5F2,#D9965B,#BF7449,#A65C41);
+}
+#tit{
+    margin-top: 5mm;
+    margin-bottom: 3mm;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 3cm;
+}
+#nav_bar{
+    text-align: center;
+    background-color: #402422;
+}
+a{
+    font-size: 7mm;
+    display: inline;
+    margin-right: 8mm;
+    text-decoration: none;
+    color: white;
+}
+#nav_bar_main{
+    margin-left: 2mm;
+}
+#d_one{
+    display: flex;
+    justify-content: center;
+}
+#img_prin{
+    display:block;
+    margin-right: 6.5cm;
+    margin-left: auto;
+    border-radius:2cm;
+}
+#phr{
+    margin-top: 3.5cm;
+    margin-left: 6.5cm;
+    margin-right: 10mm;
+    text-align: center;
+    font-size: 8mm;
+}
+#date{
+    text-align: right;
+    margin-right: 7.3cm;
+    font-size: 8mm;
+}
+#sub_one{
+    margin-left: 2cm;
+    font-size: 20mm;
+}
+#d_two{
+    display: flex;
+    justify-content: center;
+}
+#img_sub_one{
+    margin-left: 2cm;
+    border-radius: 5mm;
+    width: 15cm;
+}
+#p_one{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    font-size: 5mm;
+}
+#sub_two{
+    text-align: right;
+    margin-right: 2cm;
+    font-size: 20mm;
+}
+#d_three{
+    display: flex;
+    justify-content: center;
+}
+#img_sub_two{
+    margin-right: 2cm;
+    border-radius: 5mm;
+    height: 5cm;
+    width: 10cm;
+}
+#p_two{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    font-size: 5mm;
+}
+#footer{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+#curi{
+    text-align: center;
+    font-size: 15mm;
+}
+#d_footer{
+    display: flex;
+    justify-content: center;
+}
+#img_footer{
+    border-radius: 1cm;
+}
+#l_footer{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 2cm;
+}
+li{
+    font-family:'NTR', sans-serif;
+    font-size: 7mm;
+}

@@ -1,0 +1,141 @@
+body{
+    background-image: linear-gradient(#D8317D,#D7389D,#45afec,#38D7CA,#3B0C56);
+}
+#tit{
+    margin-top: 5mm;
+    margin-bottom: 3mm;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 3cm;
+}
+#nav_bar{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+a{
+    font-size:7mm;
+    display: inline;
+    margin-right: 8mm ;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+li{
+    font-family: 'Dancing Script', cursive;
+    font-size: 10mm;
+}
+#d_one{
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    display: flex;
+    justify-content:center;
+}
+#img_one{
+    height: 7cm;
+    width: 7cm;
+    margin-top: 1.5cm;
+    margin-right: 20mm;
+    border-radius: 1cm;
+    border-width: 1mm;
+    border-style: solid;
+    border-color: black;
+}
+#alb_1{
+    text-align:right;
+    margin-right: 45mm;
+    font-size: 15mm;
+}
+#y_1{
+    text-align:right;
+    margin-right: 42mm;
+    font-size: 10mm;
+}
+#l_1{
+    margin-top: 1.5cm;
+    margin-bottom: auto;
+}
+#d_two{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1cm;
+}
+#img_two{
+    height: 7cm;
+    width: 7cm;
+    margin-left: 20mm;
+    border-radius: 1cm;
+    border-width: 1mm;
+    border-style: solid;
+    border-color: rgba(236, 73, 155, 0.548);
+}
+#alb_2{
+    text-align: left;
+    margin-left: 15mm;
+    font-size: 15mm;
+}
+#y_2{
+    text-align:left;
+    margin-left: 45mm;
+    font-size: 10mm;
+}
+#l_2{
+    margin-top: 1cm;
+    margin-bottom: auto;
+}
+#d_three{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1cm;
+}
+#dd{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#img_three{
+    height: 7cm;
+    width: 7cm;
+    margin-right: 15mm;
+    border-radius: 1cm;
+    border-width: 1mm;
+    border-style: solid;
+    border-color: rgba(126, 3, 126, 0.527);
+}
+#alb_3{
+    text-align:right;
+    margin-right: 37mm;
+    font-size: 15mm;
+}
+#y_3{
+    text-align:right;
+    margin-right: 42mm;
+    font-size: 10mm;
+}
+#l_3{
+    margin-top: 2.2cm;
+    margin-bottom: auto;
+}
+#d_four{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1cm;
+}
+#img_four{
+    height: 7cm;
+    width: 7cm;
+    margin-left: 8mm;
+    border-radius: 1cm;
+    border-width: 1mm;
+    border-style: solid;
+}
+#alb_4{
+    text-align: left;
+    margin-left: 3.2cm;
+    font-size: 15mm;
+}
+#y_4{
+    text-align:left;
+    margin-left: 3.2cm;
+    font-size: 10mm;
+}
+#l_4{
+    margin-right: 15mm;
+}

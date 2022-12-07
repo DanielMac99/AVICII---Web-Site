@@ -1,0 +1,70 @@
+body{
+    background-image: linear-gradient(darkgrey,#2C4859,#61788C,#1B3240);
+}
+
+
+
+#img_Titulo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:2cm;
+    width: 25cm;
+}
+#nav_bar{
+    margin-top: 1cm;
+    text-align: center;
+    background-color: #000000;
+}
+a{
+    font-size: 7mm;
+    display: inline;
+    margin-right: 18mm ;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#in_Fr{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 2cm;
+    text-align: center;
+    font-size: 9mm;
+}
+#gal{
+    display: flex;
+    justify-content: center;
+}
+#img_Gal{
+    display: inline;
+    margin-left: 3.5mm;
+    margin-right: 3.5mm;
+    width: 8cm;
+    height: 10cm;
+}
+#sub_uno{
+    margin-left: 2cm;
+    font-size: 10mm;
+}
+#p_uno{
+    margin-left: 2cm;
+    margin-right: 2cm;
+    font-size: 8mm;
+}
+#sub_dos{
+    color: aliceblue;
+    text-align: center;
+    font-size: 10mm;
+}
+#p_dos{
+    color: bisque;
+    text-align: center;
+    font-size: 9mm;
+}
+#vid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:1cm;
+    width: 25cm;
+    margin-bottom: 1cm;
+}

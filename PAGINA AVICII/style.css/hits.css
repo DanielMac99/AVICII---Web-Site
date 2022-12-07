@@ -1,0 +1,142 @@
+body{
+    background-image: linear-gradient(#1D5A73,#5CF2F2,#80F291,#0D0D0D);
+}
+.tit{
+    margin-top: 5mm;
+    margin-bottom: 3mm;
+    text-align: center;
+    text-decoration:underline;
+    font-size: 3cm;
+}
+.nav_bar{
+    text-align: center;
+    background-color: #431094;
+}
+a{
+    font-size:7mm;
+    display: inline;
+    margin-right: 8mm ;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.tit_1{
+    text-align: center;
+    font-size: 15mm;
+}
+img{
+    border-radius: 5mm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.d_one{
+    display: flex;
+    justify-content: center;
+}
+.alb_1{
+    margin-right: 10mm;
+}
+li{
+    font-size: 6.5mm;
+}
+.alb_2{
+    margin-right: 10mm;
+}
+.d_two{
+    display: flex;
+    justify-content: center;
+    margin-top: 1cm;
+}
+.alb_4{
+    margin-right: 10mm;
+}
+
+.tit_2{
+    text-align: center;
+    font-size: 15mm;
+}
+.dd{
+    display:grid;
+    justify-content:center;
+}
+.a_tit{
+    font-size: 9mm;
+}
+.ap{
+    font-size: 7mm;
+}
+.ay{
+    font-size: 7mm;
+}
+
+.tit_f{
+    font-size: 15mm;
+    text-align: center;
+}
+.d_f{
+    background-color: #5CF2F2;
+    display: flex;
+    justify-content: center;
+    border-radius: 3cm;
+    border-style: solid;
+    border-color: rgb(26, 216, 200);
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+.f_name{
+    text-align: center;
+    font-size: 8mm;
+}
+.name{
+    margin-left: 15mm;
+}
+.f_song{
+    margin-top: 15mm;
+    text-align: center;
+    font-size: 8mm;
+}
+.song{
+    margin-left: 15mm;
+    margin-bottom: 1cm;
+}
+.q_3{
+    margin-left: 2.5cm;
+}
+.f_avicii{
+    text-align: center;
+    font-size: 8mm;
+}
+.o_1{
+    display: flex;
+    justify-content: center;
+}
+.p_1{
+    font-size: 6mm;
+    margin-left: 7mm;
+}
+.o_2{
+    display: flex;
+    justify-content: center;
+}
+.p_2{
+    font-size: 6mm;
+    margin-left: 7mm;
+}
+.c_but{
+    margin-top: 0.5cm;
+    margin-bottom: 1cm;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5cm;
+    border-color: rgb(0, 0, 0);
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 9mm;
+    padding: 2mm;
+    padding-left: 15mm;
+    padding-right: 15mm;
+}
